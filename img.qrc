@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assert/icons/settings.svg</file>
+        <file>assert/icons/test.png</file>
+        <file>assert/icons/settting.png</file>
+        <file>test.qml</file>
+        <file>assert/icons/back.svg</file>
+        <file>assert/icons/editor.svg</file>
+        <file>assert/icons/delete.svg</file>
+    </qresource>
+</RCC>

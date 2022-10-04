@@ -1,7 +1,7 @@
 # CMDQuicker
 
 ![img](https://img.shields.io/badge/QT-6.3.2-green)
-> 偶然看到一个项目，用Qt做出的界面还能这么好看，想着自己之前做的Qt界面都巨丑，弄一个玩一下
+> 偶然看到一个项目，用Qt做出的界面还能这么好看，想着自己之前做的Qt界面都巨丑，弄一个玩一下，外观参考[Linloir/GraphBuilder: A visualized tool to create a graph (github.com)](https://github.com/Linloir/GraphBuilder)
 
 编译完后的链接: [下载地址](https://github.com/799034552/CMDQuicker/files/9702285/CMDQuick.zip)
 
